@@ -1,0 +1,1 @@
+import{_ as s,c as t,o,a as e}from"./CGjj599h.js";const c={},n={class:"min-h-screen"},a=e("main",{class:"md:ml-[267px] px-0 mx-auto pt-7 lg:px-0"},[e("h1",{class:"text-2xl font-medium"},"Books")],-1),_=[a];function r(d,i){return o(),t("div",n,_)}const l=s(c,[["render",r]]);export{l as default};
